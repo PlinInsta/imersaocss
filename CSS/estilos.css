@@ -1,0 +1,29 @@
+body {
+    background-image: url('https://scontent.fssz1-1.fna.fbcdn.net/v/t1.0-9/78616165_1741015732697498_7036302010294992896_n.jpg?_nc_cat=100&_nc_sid=dd7718&_nc_ohc=9_XJi5qRACgAX_kM2xg&_nc_ht=scontent.fssz1-1.fna&oh=347b532ad496f297f71af628fa89812a&oe=5EDF3967');
+    background-size: auto 100vh;
+    height:100vh;
+     
+      
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+    
+  }
+  
+  .menu li {
+   list-style: none;
+  }
+  .site-subtitle,
+  .site-title {
+    
+    text-align: center;
+    color: black;
+  }
+  
+  
